@@ -10,6 +10,8 @@ namespace git_test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, GitHub!");
+            Console.ReadLine();
         }
     }
 }
